@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Asztali gép\SkibidiCasino\SkibidiCasino\SkibidiCasino\bin\Debug\SkibidiCasino.exe.config
+C:\Users\chris\OneDrive\Asztali gép\SkibidiCasino\SkibidiCasino\SkibidiCasino\bin\Debug\SkibidiCasino.exe
+C:\Users\chris\OneDrive\Asztali gép\SkibidiCasino\SkibidiCasino\SkibidiCasino\bin\Debug\SkibidiCasino.pdb
+C:\Users\chris\OneDrive\Asztali gép\SkibidiCasino\SkibidiCasino\SkibidiCasino\obj\Debug\SkibidiCasino.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Asztali gép\SkibidiCasino\SkibidiCasino\SkibidiCasino\obj\Debug\SkibidiCasino.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Asztali gép\SkibidiCasino\SkibidiCasino\SkibidiCasino\obj\Debug\SkibidiCasino.exe
+C:\Users\chris\OneDrive\Asztali gép\SkibidiCasino\SkibidiCasino\SkibidiCasino\obj\Debug\SkibidiCasino.pdb
